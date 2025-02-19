@@ -1,0 +1,6 @@
+1. npm run build (front)
+2. mkdir /public in backend
+3. package.json
+4. npm install (back)
+5. update index.js
+6. create main.js
